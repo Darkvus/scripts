@@ -42,6 +42,6 @@ case $selector in
 	6)
             git status
             ;;
-        *) echo "Opcion no permitida $REPLY";;
+        *) echo "ByeBye. ¡Hasta Pronto!";;
 esac
 
